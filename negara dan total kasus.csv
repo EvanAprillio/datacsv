@@ -1,0 +1,254 @@
+country_region,total_confirmed_cases
+US,50217890676
+India,27609927292
+Brazil,19919762783
+France,14751363385
+Germany,12444646863
+United Kingdom,11289647259
+Russia,9834933721
+Italy,9214491434
+Turkey,8260078921
+"Korea, South",7432519487
+Spain,6602902778
+Japan,6208844920
+Argentina,5284035990
+Iran,4355123983
+Colombia,3998457414
+Vietnam,3922679760
+Netherlands,3813389420
+Mexico,3691408977
+Indonesia,3463031901
+Poland,3425489339
+Australia,3122794695
+Ukraine,2972918750
+South Africa,2474959333
+Peru,2346408598
+Malaysia,2202773378
+Portugal,2200455488
+Czechia,2198078480
+Chile,2176810600
+Philippines,2143153947
+Belgium,2120279631
+Canada,2103700220
+Israel,2058838801
+Austria,2013402876
+Thailand,1937329600
+Greece,1775958142
+Switzerland,1763019860
+Romania,1647495126
+Taiwan*,1630082718
+Iraq,1525247684
+Sweden,1379410298
+Denmark,1344226017
+Bangladesh,1240084469
+Slovakia,1152382872
+Serbia,1145078884
+Hungary,1068300768
+Pakistan,1026033526
+China,989760921
+Jordan,931535495
+Georgia,836709049
+Kazakhstan,810294598
+Morocco,759694161
+Ireland,743110323
+Lebanon,653905714
+Singapore,647791109
+Bulgaria,639533506
+Nepal,619498445
+United Arab Emirates,617810296
+Tunisia,605284682
+Croatia,604574561
+Norway,596613214
+Cuba,588366550
+Bolivia,565179934
+Belarus,559849656
+Lithuania,551542264
+Saudi Arabia,548021547
+Ecuador,547503114
+Guatemala,536723082
+Costa Rica,536428296
+Slovenia,526206174
+Panama,523418871
+New Zealand,514479460
+Finland,478082363
+Azerbaijan,465380710
+Uruguay,463773536
+Mongolia,418059105
+Paraguay,407068299
+Kuwait,390671306
+West Bank and Gaza,388634449
+Latvia,378836227
+Dominican Republic,377506423
+Sri Lanka,371508809
+Burma,353115780
+Bahrain,333352910
+Venezuela,322428536
+Moldova,322171849
+Egypt,317067350
+Ethiopia,304257309
+Libya,291604917
+Honduras,286627401
+Armenia,270308584
+Estonia,270107090
+Qatar,265609647
+Oman,259875271
+Bosnia and Herzegovina,233920590
+Cyprus,231610826
+Kenya,209658023
+North Macedonia,190609675
+Zambia,184306461
+Nigeria,179238907
+Albania,174140982
+Algeria,173512902
+Botswana,159949187
+Uzbekistan,151611304
+Montenegro,143579351
+Kosovo,143319272
+Kyrgyzstan,139011007
+Zimbabwe,131423961
+Luxembourg,130895139
+Mozambique,128964463
+Afghanistan,122826819
+Ghana,111962263
+El Salvador,106673020
+Namibia,98959720
+Uganda,97791753
+Maldives,93210799
+Mauritius,89134973
+Laos,84834329
+Cameroon,79144920
+Jamaica,77356892
+Trinidad and Tobago,77222496
+Iceland,75252041
+Cambodia,74700024
+Rwanda,73174378
+Brunei,70827512
+Senegal,56644102
+Angola,56447617
+Cote d'Ivoire,55048840
+Congo (Kinshasa),53547666
+Malta,51981564
+Malawi,51652580
+Madagascar,41836825
+Suriname,41484290
+Sudan,40683627
+Eswatini,40458012
+Barbados,36026825
+Cabo Verde,35386973
+Mauritania,35142967
+Guyana,34926794
+Fiji,34452643
+Syria,33255532
+Belize,31770174
+Gabon,29902655
+Guinea,25780867
+Papua New Guinea,23405178
+Andorra,22919711
+Seychelles,22534712
+Togo,21393615
+Burundi,21326808
+Haiti,20925527
+Bahamas,20226861
+Bhutan,20199890
+Lesotho,18811814
+Mali,18145638
+Tanzania,17523660
+Somalia,16935025
+Benin,16070641
+Congo (Brazzaville),15296126
+Tajikistan,14571825
+Burkina Faso,13802698
+Saint Lucia,12967142
+Timor-Leste,12623029
+South Sudan,11343606
+Djibouti,11296475
+Nicaragua,11194588
+Equatorial Guinea,10862710
+Central African Republic,9820266
+San Marino,9385088
+Liechtenstein,8214304
+Gambia,7997639
+Yemen,7475480
+Grenada,7474128
+Solomon Islands,6934658
+Monaco,6169706
+Dominica,6091223
+Niger,6001854
+Eritrea,5888066
+Guinea-Bissau,5484947
+Sierra Leone,5397716
+Chad,4944649
+Comoros,4823303
+Liberia,4754352
+Saint Vincent and the Grenadines,4535559
+Samoa,4405207
+Tonga,4404083
+Antigua and Barbuda,4000651
+Sao Tome and Principe,3539741
+Vanuatu,3374162
+Micronesia,3271841
+Saint Kitts and Nevis,2756893
+Marshall Islands,2604669
+Mainland China,2473544
+Palau,1870400
+Kiribati,1225903
+Diamond Princess,744752
+Nauru,664783
+Summer Olympics 2020,469224
+Tuvalu,224973
+Winter Olympics 2022,192842
+South Korea,65556
+Holy See,25817
+Others,17084
+MS Zaandam,9359
+Cruise Ship,9144
+Iran (Islamic Republic of),8042
+Republic of Korea,7513
+Antarctica,3971
+Hong Kong,2558
+Western Sahara,2221
+UK,1916
+Taiwan,1057
+Macau,419
+"Korea, North",266
+Guadeloupe,187
+Martinique,172
+Czech Republic,171
+Reunion,137
+Hong Kong SAR,120
+French Guiana,117
+Palestine,86
+Taipei and environs,47
+Viet Nam,31
+occupied Palestinian territory,25
+Republic of Ireland,21
+Mayotte,21
+Aruba,19
+Saint Barthelemy,17
+Faroe Islands,10
+"Bahamas, The",10
+Macao SAR,10
+Russian Federation,10
+Gibraltar,7
+Jersey,6
+Guam,6
+Vatican City,4
+"Gambia, The",4
+Cayman Islands,3
+Guernsey,3
+Puerto Rico,3
+Greenland,3
+The Bahamas,3
+Republic of Moldova,3
+St. Martin,2
+Curacao,2
+Saint Martin,2
+ Azerbaijan,1
+North Ireland,1
+Republic of the Congo,1
+The Gambia,1
+Cape Verde,1
+East Timor,1
+Ivory Coast,1
+Channel Islands,1
+,0
